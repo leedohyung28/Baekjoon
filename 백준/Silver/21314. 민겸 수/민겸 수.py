@@ -31,7 +31,6 @@ for i in input :
     
 if M_most != 0 :
     most_num += '1' * (M_most)
-    # most_num += '0' * (M_most-1)
             
 print(most_num)
 print(least_num)
